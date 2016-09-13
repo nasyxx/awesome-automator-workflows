@@ -1,2 +1,7 @@
-# my_automator_workflows
-my_automator_workflows
+# awesome automator workflows
+
+## include
+
+* unzip file
+* 7z files
+* more...
